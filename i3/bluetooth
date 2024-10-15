@@ -1,0 +1,2 @@
+blueman-applet --loglevel debug &> /tmp/blueman-applet.log &
+blueman-manager --loglevel debug &> /tmp/blueman-manager.log &
